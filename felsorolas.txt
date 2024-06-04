@@ -1,0 +1,21 @@
+A második oszlop:
+
+<ul>
+	<li>Ülőhelyek száma: 80 db</li>
+	<li>Saját tömeg: 35 t</li>
+	<li>Forgóváz típusa: Kaláka I-III</li>
+	<li>Forgóváz tengelytáv: 2500 mm</li>
+	<li>Forgócsap távolság: 16500 mm</li>
+	<li>Fékrendszer: KE-P</li>
+</ul>
+
+A harmadik oszlop:
+
+<ul>
+	<li>Féktömeg: P: 37 t. Kézi: 32 t.</li>
+	<li>Áramforrás (világítás/fűtés): EW 54; WG-140 K6S; Statikus t./ZWAR</li>
+	<li>Teljesítmény (világítás/fűtés): 2,25/22 kW</li>
+	<li>Akkumulátor típus: KPM 255 T</li>
+	<li>Akkumulátor kapacitás: 255 Ah</li>
+	<li>Fűtési rendszer: egyfeszültségű konvekciós villamos fűtés</li>
+</ul>
