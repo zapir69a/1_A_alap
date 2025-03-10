@@ -11,10 +11,31 @@
 .kepfelirat
 {
 	text-align: center;
+	font-style: italic;
 }
 
 .galeriakep
 {
 	margin: auto;
 	display: block;
+	height: 300px;
+}
+
+body {
+	background-color: #c9e8ff ;
+}
+
+
+
+#törtenet, a {
+	font-weight: bold;
+}
+
+
+.keret {
+	border: solid 3px #3d5875;
+}
+
+.margo {
+	margin: 20px auto;
 }
